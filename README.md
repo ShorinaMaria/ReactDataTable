@@ -4,6 +4,6 @@ It's an SPA which reads measurements from stream (EventSource). The changes are 
 
 
 
-Open public/index.html to see the result data table. <a href="https://shorinamaria.github.io/ReactDataTable/public/index.html">Here</a>
+Open public/index.html to see the result data table. <a target="_blank" href="https://shorinamaria.github.io/ReactDataTable/public/index.html">Here</a>
 
-Open public/test/index.html to run the tests (Jasmine used). <a href="https://shorinamaria.github.io/ReactDataTable/public/index.html">Here</a>
+Open public/test/index.html to run the tests (Jasmine used). <a target="_blank"  href="https://shorinamaria.github.io/ReactDataTable/public/index.html">Here</a>
